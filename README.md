@@ -12,7 +12,7 @@
 
 # :man_technologist: About Me :
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Futura+Md+BT&weight=900&size=25&duration=5010&pause=800&random=false&width=435&lines=Creative+Programmer;Web+Developer;Cloud+Enthusiast;Pentester)
-<img hight="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/Obshy86MvfcAAAAC/yo-anime.gif"/>
+<img hight="400" width="500" alt="GIF" align="right" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
 
 ### - On Process
 - 🤖 Data Science & Analytics

@@ -7,10 +7,14 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/YXB84-L5pfMAAAAC/allooo-hey.gif" width="600" height="300"/>
 </div>
+<br/><br>
+ <div align="center">
 
----
+# About Me 
 
-# About Me :
+</div>
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Futura+Md+BT&weight=900&size=25&duration=5010&pause=800&random=false&width=435&lines=Creative+Programmer;Web+Developer;Cloud+Enthusiast;Pentester)
 <img hight="400" width="500" alt="GIF" align="right" src="https://i.redd.it/n8agw6z2smyb1.gif"/>
 
